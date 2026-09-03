@@ -2,10 +2,10 @@
 # atividade2
 # yasmin cantanhede santos
 
- INICIO 
-    Var saldo, opcao, valor, sistema
+   INICIO 
+   Var saldo, opcao, valor, sistema
 
-    Enquanto o sistema funciona é verdadeiro
+   Enquanto o sistema funciona é verdadeiro
 
    Mostrar menu
    Para consultar digite 1, depositar digite 2, sacar digite 3, encerrar digite 4
